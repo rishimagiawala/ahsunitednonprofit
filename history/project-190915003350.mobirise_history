@@ -53,7 +53,9 @@
     "cleanCSS": true,
     "uniqCompNum": 20,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/rishi/Desktop/website"
   },
   "pages": {
     "index.html": {
