@@ -53,7 +53,10 @@
     "cleanCSS": true,
     "uniqCompNum": 20,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/white-with-circle.png",
+    "noImageResize": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
